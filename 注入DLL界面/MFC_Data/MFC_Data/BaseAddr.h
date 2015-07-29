@@ -1,0 +1,1 @@
+#define Base_RoleAddr 0X2fc3118//人物属性基址
